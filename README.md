@@ -1,2 +1,2 @@
 # Utilities
-C# utilities for wrapping FileSystem, DateTime, etc.
+C# library for wrapping FileSystem, DateTime, etc.
